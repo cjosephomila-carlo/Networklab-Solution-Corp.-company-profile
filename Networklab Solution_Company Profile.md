@@ -124,29 +124,45 @@ Magnetic Lock · Biometric · Card Reader
 ### Mitsubishi Motors — *CCTV Security and Surveillance Project*
 Installation and termination of Cat6 components and FOC backbone, cable pulling and harnessing, camera and cabling works, outdoor FOC backbone, scaffolding erection, and data/voice cabling works.
 
+<img src="assets/projects/mitsubishi_motors.jpg" alt="Mitsubishi Motors CCTV project photos" width="700"/>
+
 ### TOHO-Precision Molds Philippines — *"TOHO Liip Renovation" CCTV Security and Surveillance Project*
 Installation and termination of Cat6 components and FOC backbone, cable pulling and harnessing, camera and cabling works, outdoor FOC backbone, scaffolding erection, and data/voice cabling works.
+
+<img src="assets/projects/toho_precision_molds.jpg" alt="TOHO Precision Molds CCTV project photos" width="700"/>
 
 ### Lucky 8 - Star Quest Inc. — *CCTV Security and Surveillance Project*
 - **Site 1 – Liberty Building:** Installation and termination of Cat6 components and FOC backbone, cable pulling and harnessing
 - **Site 2 – Talumpong Building:** Installation of camera and cabling works, FOC backbone cable pulling and termination
 - **Site 3 – Lipa Villas and Clubhouse:** Outdoor FOC backbone, scaffolding erection, data and voice cabling works
 
+<img src="assets/projects/lucky8_starquest.jpg" alt="Lucky 8 Star Quest CCTV project photos" width="700"/>
+
 ### Widus Hotel and Casino — *Access Point Project*
 Data center and IDF setup, termination and cable harnessing, installation of access points.
+
+<img src="assets/projects/widus_hotel_casino.jpg" alt="Widus Hotel and Casino access point project photos" width="700"/>
 
 ### Philippine Airforce — *Communication Project*
 Communication device setup and cabling works, plus knowledge transfer and trainings.
 
+<img src="assets/projects/philippine_airforce.jpg" alt="Philippine Airforce communication project photos" width="700"/>
+
 ---
 
 ## Project References
+
+<img src="assets/project_references.jpg" alt="NetworkLab Solutions Corp. project reference client logos" width="700"/>
 
 iBC · Solaire Resort & Casino · Twin Lakes Hotel · The Bayleaf Cavite · Conti's Bakeshop & Restaurant · DPWH · DSM · Philippine Air Force · TOHO · Nutrition Products · Mitsubishi Motors · Gardenia · Nippon Premium Bakery Inc. · Royale Cold Storage (RCS) · Village Gourmet · Enshored
 
 ---
 
 ## Products & Brand Partners
+
+<img src="assets/brands_1.jpg" alt="NetworkLab Solutions Corp. product and brand partners 1" width="700"/>
+
+<img src="assets/brands_2.jpg" alt="NetworkLab Solutions Corp. product and brand partners 2" width="700"/>
 
 Fiber-Rex · G-Com Technology · Bricscad · Panduit · Cisco · Lenel · Arecont Vision · TRENDnet · SolidWorks · Vtech Hospitality Division · Sangfor · Sundray Technologies · 3CX · Panasonic · Socomec · Planet Technology USA · Tiandy · Lenovo · IBM · Microsoft · Fortinet · Citrix · Fuji Xerox DocuShare · Sophos · Acer · Hikvision · Zebra · Kofax · Ubiquiti Networks · VMware · Dell · Veeam · Brother · Hytera · ASUS · APC by Schneider Electric · Canon · Epson · HP · CommScope · LS Cable & System · Belden · Uniview · SketchUp · Adobe · SonicWall · Autodesk · ZWCAD
 
